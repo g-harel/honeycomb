@@ -1,0 +1,22 @@
+{
+  "name": "honeycomb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://g-harel:0ph3l14@github.com/g-harel/honeycomb.git"
+  },
+  "author": "gharel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/g-harel/honeycomb/issues"
+  },
+  "homepage": "https://github.com/g-harel/honeycomb#readme",
+  "dependencies": {
+    "gulp-browserify": "^0.5.1"
+  }
+}
