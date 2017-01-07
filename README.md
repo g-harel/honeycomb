@@ -2,7 +2,7 @@
   <img src="https://i.gyazo.com/15483ed2ac40cf44bf3496a078334c17.png" width="500"/>
 </p>
 
-Maintained live version [here](https://g-harel.github.io/Honeycomb/)
+Live version [here](https://g-harel.github.io/Honeycomb/)
 
 "Password" protected text storage on you local machine
 
